@@ -1,0 +1,8 @@
+-- Configuração Git
+git config --global user.name eduardatec98
+git config --global user.email eduarda.tec98@gmail.com
+
+-- Criar o projeto
+npx create-expo-app@latest pokedex-app --template blank-typescript --no-install
+
+cd pokedex-app 
