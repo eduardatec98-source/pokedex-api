@@ -10,7 +10,7 @@ import {
   Text,
   View
 } from 'react-native';
-import { fetchPokemonDetails } from '../api/pokeApi';
+import { fetchPokemonDetails } from '../api/pokeapi';
 import { InfoPill } from '../components/InfoPill';
 import { StatBar } from '../components/StatBar';
 import { typeColors, typeLabels, typeSoftColors } from '../constants/pokemonTheme';

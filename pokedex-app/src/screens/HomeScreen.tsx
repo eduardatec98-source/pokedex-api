@@ -15,7 +15,7 @@ import {
   fetchPokemonIndex,
   fetchPokemonTypeIndex,
   PokemonIndexEntry
-} from '../api/pokeApi';
+} from '../api/pokeapi';
 import { EmptyState } from '../components/EmptyState';
 import { PokemonCard } from '../components/PokemonCard';
 import { SearchBar } from '../components/SearchBar';
